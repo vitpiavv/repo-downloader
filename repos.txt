@@ -1,0 +1,10 @@
+https://github.com/danielmiessler/SecLists
+https://github.com/lgandx/Responder
+https://github.com/fortra/impacket
+https://github.com/BloodHoundAD/BloodHound
+https://github.com/SpecterOps/BloodHound
+https://github.com/dirkjanm/BloodHound.py
+https://github.com/its-a-feature/Mythic
+https://github.com/BishopFox/sliver
+https://github.com/GhostPack
+https://github.com/stephenbradshaw/vulnserver
