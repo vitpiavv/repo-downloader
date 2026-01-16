@@ -1,11 +1,11 @@
-#!usr/bin/env python
+#!usr/bin/python
 import subprocess
 import sys
 from pathlib import Path
 
 file_path = Path(__file__).parent / 'repos.txt'
 
-with open('repos.txt')as f: 
+with open('repos.txt') as f: 
     repos = [line.strip() for line in f if line.strip()]
 
 
